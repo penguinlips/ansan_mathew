@@ -79,13 +79,16 @@ a:focus{
 }
 
 .subheading{
-	color: whitesmoke;
+	color:rgb(238, 210, 83);
 	text-transform: none;
 	padding-top: 30px;
 	padding-left: 24px;
-	font-size: 26px;
-	text-decoration: underline wheat
+	font-size: 22px;
+	text-decoration: underline wheat;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 300;
 }
+
 .worksvideo{
 	width: 90%;
 	height: auto;
