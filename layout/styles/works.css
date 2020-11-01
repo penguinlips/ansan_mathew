@@ -68,16 +68,6 @@ a:focus{
 	padding-top: 10px;
 }
 
-.para{
-	color:white;
-	font-size: 15px;
-	padding-left: 25px;
-	text-transform: none;
-	font-style: italic;
-	margin-top: 30px;
-	line-height: 40px;
-}
-
 .note{
 	color:white;
 	font-size: 12px;
@@ -113,13 +103,7 @@ a:focus{
 	margin-right: auto;
 	display: block;
 }
-.projectpara{
-	color:white;
-	font-size: 15px;
-	padding-left: 80px;
-	text-transform: none;
-	font-style: italic;
-}
+
 .prospara{
 	color:whitesmoke;
 	font-size: 16px;
@@ -127,12 +111,7 @@ a:focus{
 	text-transform: none;
 	font-weight: bold;
 }
-.worksbutton{
-	color: white;
-	font-size:20px;
-	background-color: black;
-	border-color: white;
-}
+
 #latestborder{
 	border:1px solid wheat;
 	width: 330px;
@@ -151,10 +130,7 @@ a:focus{
 	height: 65px;
 
 }
-#arrowright{
-	font-size: 25px;
-	color: white;
-}
+
 #footercenter{
 	text-align: center;
 }
@@ -209,7 +185,6 @@ a:focus{
 	font-size: 15px;
 	padding-left: 30px;
 	text-transform: none;
-	font-style: italic;
 	font-family: sans-serif ;
 	margin-top: 30px;
 	line-height: 30px;
@@ -220,18 +195,20 @@ a:focus{
 	font-size: 15px;
 	padding-left: 70px;
 	text-transform: none;
-	font-style: italic;
 	font-family: serif;
 	margin-top: 15px;
 	line-height: 20px;
+	font-weight: 300;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .sub{
-color:white;
+color:rgb(238, 210, 83);
 line-height: 0px;
 font-size: 22px;
-font-weight: bold;
+font-weight: 300;
 text-decoration: underline wheat;
+font-family: 'Montserrat', sans-serif;
 }
 
 
